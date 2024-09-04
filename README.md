@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BobroveITGroup
+- 👀 I’m interested in Programming, creating complex software for a specific problem, sharing knowledge and I simply LOVE COMPUTER SCIENCE
+- 🌱 I’m currently learning С++, Win32, Base Win-architecer and creating High performance systems
+- 📫 How to reach me Mike
+- ⚡ Fun fact:I have been developing programming skills for 2 years now
